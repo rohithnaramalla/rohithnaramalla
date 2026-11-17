@@ -153,12 +153,13 @@ Hello! I'm **Rohith Naramalla**, a Computer Science Engineering graduate passion
 
 ## 🏆 Certifications
 
-- Microsoft Certified: Data Analytics
-- Cisco CCNA
-- IBM SkillsBuild Internship – Data Analytics
-- Infosys Springboard – Java Language Features
-- Foundational C# with Microsoft – freeCodeCamp
 
+- Microsoft Certified: Data Analytics
+- IBM SkillsBuild Internship– Data Analytics (CSRBOX)
+- Infosys Springboard– Java Language Features
+- Cisco Certified Network Associate (CCNA)
+- Java Full-Stack Development and Training Program– 10K Coders
+- Foundational C# with Microsoft– freeCodeCamp and Microsoft (2025
 ---
 
 ## 🎓 Education
